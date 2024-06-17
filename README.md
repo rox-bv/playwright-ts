@@ -16,11 +16,8 @@ Installing Playwright - https://playwright.dev/docs/intro
 4. Follow the prompts
 
 
-COMMIT FIRST REPO
-1. Open the test folder > right click > Open GitBash Here
-2. git init
-git add .
-git commit -m "initial commit"
+PUSHING YOUR FIRST PROJECT 
+https://gist.github.com/mindplace/b4b094157d7a3be6afd2c96370d39fad
 
 RUNNING TEST
 1. Clone the repo
